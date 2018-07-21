@@ -2243,9 +2243,9 @@ eslint-plugin-react@^7.1.0:
     has "^1.0.1"
     jsx-ast-utils "^1.4.1"
 
-eslint-plugin-relay@^0.0.24:
-  version "0.0.24"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-relay/-/eslint-plugin-relay-0.0.24.tgz#2a1892113001bca5660c931d8b02da6a74e26e13"
+eslint-plugin-relay@^0.0.25:
+  version "0.0.25"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-relay/-/eslint-plugin-relay-0.0.25.tgz#65dbb2e158508a739b2565f6821fe59bde4c3657"
   dependencies:
     graphql "^0.13.0"
 
